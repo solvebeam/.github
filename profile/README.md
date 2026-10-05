@@ -18,6 +18,7 @@ SolveBeam solves complex problems with clarity by building modern web solutions 
 | 🏗️ [SolveBeam WordPress Plugin Boilerplate](https://github.com/solvebeam/solvebeam-wordpress-plugin-boilerplate) | **Boilerplate** — a starting point for building new WordPress plugins the SolveBeam way. |
 | [SolveBeam Diagrams with Mermaid](https://github.com/solvebeam/solvebeam-diagrams-with-mermaid-for-wordpress) | Add Mermaid diagrams to your WordPress content. |
 | [SolveBeam Default Customer Location for WooCommerce](https://github.com/solvebeam/solvebeam-default-customer-location-for-woocommerce) | Set a default customer location for WooCommerce. |
+| [SolveBeam Quick Login for wp-env](https://github.com/solvebeam/solvebeam-quick-login-for-wp-env) | Quickly log in as a specified WordPress user in your `wp-env` environment. |
 
 ## ❤️ Sponsor SolveBeam
 
