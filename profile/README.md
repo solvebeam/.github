@@ -11,6 +11,14 @@ SolveBeam solves complex problems with clarity by building modern web solutions 
 | [wp-text-domain-replacer](https://github.com/solvebeam/wp-text-domain-replacer) | A developer tool for replacing WordPress translation text domains in PHP, JavaScript, and `block.json` files. Ideal when you bundle reusable libraries inside your own plugin or theme. |
 | [wp-hooks-documentor](https://github.com/solvebeam/wp-hooks-documentor) | A CLI tool that automatically extracts the actions and filters of your WordPress plugin or theme and generates documentation in Markdown, JSON, or reStructuredText. |
 
+## ⚙️ GitHub Actions
+
+| Action | Description |
+| --- | --- |
+| [action-wordpress-org-plugin-deploy](https://github.com/solvebeam/action-wordpress-org-plugin-deploy) | Deploy your WordPress plugin to the WordPress.org plugin directory. |
+| [action-wordpress-org-plugin-readme-deploy](https://github.com/solvebeam/action-wordpress-org-plugin-readme-deploy) | Deploy only your plugin's `readme.txt` file to the WordPress.org plugin directory. |
+| 🧰 [GitHub Actions Toolkit PHP](https://github.com/solvebeam/github-actions-toolkit-php) | **Toolkit** — a PHP toolkit for developing GitHub Actions, used by the actions above. |
+
 ## 🧩 WordPress plugins
 
 | Plugin | Description |
