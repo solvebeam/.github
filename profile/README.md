@@ -24,10 +24,15 @@ SolveBeam solves complex problems with clarity by building modern web solutions 
 | Plugin | Description |
 | --- | --- |
 | 🏗️ [SolveBeam WordPress Plugin Boilerplate](https://github.com/solvebeam/solvebeam-wordpress-plugin-boilerplate) | **Boilerplate** — a starting point for building new WordPress plugins the SolveBeam way. |
-| [SolveBeam Bootstrap Pagination](https://github.com/solvebeam/solvebeam-bootstrap-pagination-for-wordpress) | Turn the default WordPress `paginate_links()` output into [Bootstrap 5](https://getbootstrap.com/) pagination markup. Handy for Bootstrap-based themes. |
 | [SolveBeam Diagrams with Mermaid](https://github.com/solvebeam/solvebeam-diagrams-with-mermaid-for-wordpress) | Add Mermaid diagrams to your WordPress content. |
 | [SolveBeam Default Customer Location for WooCommerce](https://github.com/solvebeam/solvebeam-default-customer-location-for-woocommerce) | Set a default customer location for WooCommerce. |
 | [SolveBeam Quick Login for wp-env](https://github.com/solvebeam/solvebeam-quick-login-for-wp-env) | Quickly log in as a specified WordPress user in your `wp-env` environment. |
+
+## 📚 WordPress libraries
+
+| Library | Description |
+| --- | --- |
+| [SolveBeam Bootstrap Pagination](https://github.com/solvebeam/solvebeam-bootstrap-pagination-for-wordpress) | Turn the default WordPress `paginate_links()` output into [Bootstrap 5](https://getbootstrap.com/) pagination markup. Handy for Bootstrap-based themes. |
 
 ## ❤️ Sponsor SolveBeam
 
