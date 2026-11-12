@@ -34,6 +34,25 @@ SolveBeam solves complex problems with clarity by building modern web solutions 
 | --- | --- |
 | [SolveBeam Bootstrap Pagination](https://github.com/solvebeam/solvebeam-bootstrap-pagination-for-wordpress) | Turn the default WordPress `paginate_links()` output into [Bootstrap 5](https://getbootstrap.com/) pagination markup. Handy for Bootstrap-based themes. |
 
+## 📒 Twinfield API expertise
+
+Deep expertise in the [Twinfield](https://www.twinfield.com/) API: OAuth 2.0 and OpenID Connect, the SOAP and XML services, and everything in between. An open source Twinfield stack that covers the path from the first login to production:
+
+| Project | Description |
+| --- | --- |
+| [twinfield-php](https://github.com/solvebeam/twinfield-php) | **SDK** — a modern PHP SDK for the Twinfield API, built on PSR standards. |
+| [twinfield-oauth2-php](https://github.com/solvebeam/twinfield-oauth2-php) | Twinfield OAuth 2.0 / OpenID Connect provider for the PHP League's OAuth 2.0 Client. |
+| [twinfield-connect](https://github.com/solvebeam/twinfield-connect) | OAuth proxy that lets applications connect to Twinfield through SolveBeam's certified client, running as a Cloudflare Worker. |
+| [twinfield-connect-php](https://github.com/solvebeam/twinfield-connect-php) | PHP client for [Twinfield Connect](https://connect.twinfield.solvebeam.com): log in to Twinfield with OAuth 2.0, without a Twinfield client ID of your own. |
+
+📖 Documentation: [php.twinfield.solvebeam.com](https://php.twinfield.solvebeam.com)
+
+### 🤝 Need a Twinfield integration?
+
+Connecting a webshop, CRM, or custom application to Twinfield? SolveBeam builds and maintains Twinfield integrations, and helps teams that got stuck along the way. Hire the expertise behind the SDK.
+
+👉 [Get in touch](mailto:info@solvebeam.com?subject=Twinfield%20integration) or visit [solvebeam.com](https://www.solvebeam.com/)
+
 ## ❤️ Sponsor SolveBeam
 
 Our tools and plugins are free and open source. Sponsoring helps us maintain them, fix bugs, keep up with WordPress releases, and build new ones.
