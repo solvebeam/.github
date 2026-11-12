@@ -44,6 +44,7 @@ Deep expertise in the [Twinfield](https://www.twinfield.com/) API: OAuth 2.0 and
 | [twinfield-oauth2-php](https://github.com/solvebeam/twinfield-oauth2-php) | Twinfield OAuth 2.0 / OpenID Connect provider for the PHP League's OAuth 2.0 Client. |
 | [twinfield-connect](https://github.com/solvebeam/twinfield-connect) | OAuth proxy that lets applications connect to Twinfield through SolveBeam's certified client, running as a Cloudflare Worker. |
 | [twinfield-connect-php](https://github.com/solvebeam/twinfield-connect-php) | PHP client for [Twinfield Connect](https://connect.twinfield.solvebeam.com): log in to Twinfield with OAuth 2.0, without a Twinfield client ID of your own. |
+| [twinfield-cli](https://github.com/solvebeam/twinfield-cli) | **CLI** — brings Twinfield to your terminal with the [`twf`](https://cli.twinfield.solvebeam.com/) command: log in once, then use that login in tests, examples and scripts. |
 
 📖 Documentation: [php.twinfield.solvebeam.com](https://php.twinfield.solvebeam.com)
 
